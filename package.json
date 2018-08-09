@@ -1,0 +1,30 @@
+{
+  "name": "learn-expressjs",
+  "version": "1.0.0",
+  "description": "Learn Expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indrolie/learn-expressjs.git"
+  },
+  "keywords": [
+    "expressjs",
+    "javascript"
+  ],
+  "author": "Indro Lie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indrolie/learn-expressjs/issues"
+  },
+  "homepage": "https://github.com/indrolie/learn-expressjs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mariadb": "^0.7.0",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.38.0"
+  }
+}
