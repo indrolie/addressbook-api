@@ -22,6 +22,7 @@
   "homepage": "https://github.com/indrolie/learn-expressjs#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "dotenv-extended": "^2.2.0",
     "express": "^4.16.3",
     "mariadb": "^0.7.0",
     "mysql2": "^1.6.1",
