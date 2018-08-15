@@ -4,6 +4,7 @@
   "description": "Learn Expressjs",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
     "test": "node test"
   },
   "repository": {
@@ -22,10 +23,14 @@
   "homepage": "https://github.com/indrolie/learn-expressjs#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
     "dotenv-extended": "^2.2.0",
     "express": "^4.16.3",
     "mariadb": "^0.7.0",
+    "morgan": "^1.9.0",
     "mysql2": "^1.6.1",
-    "sequelize": "^4.38.0"
+    "sequelize": "^4.38.0",
+    "serve-favicon": "^2.5.0",
+    "static-favicon": "^2.0.0-alpha"
   }
 }
