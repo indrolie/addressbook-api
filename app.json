@@ -1,0 +1,7 @@
+{
+  "name": "addressbook-api",
+  "description": "API for my addressbook application",
+  "repository": "https://github.com/indrolie/addressbook-api",
+  "keywords": ["api", "sequelize", "mysql"],
+  "image": "heroku/nodejs"
+}
